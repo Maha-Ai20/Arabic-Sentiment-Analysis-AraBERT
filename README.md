@@ -1,5 +1,5 @@
 # Arabic-Sentiment-Analysis-AraBERT
-# 🇸🇦 Arabic Sentiment Analysis using AraBERT
+#  Arabic Sentiment Analysis using AraBERT
 
 ##  Project Overview
 An end-to-end NLP project developed to analyze and classify sentiments in Arabic tweets, specifically focusing on the Saudi Dialect. The model classifies text into Positive or Negative categories.
@@ -17,3 +17,4 @@ An end-to-end NLP project developed to analyze and classify sentiments in Arabic
 
 ##  Sample Result
 *The project features a balanced visualization showing the distribution of sentiments in the analyzed dataset.*
+<img width="736" height="582" alt="Screenshot 2026-02-26 052906" src="https://github.com/user-attachments/assets/c6994d2c-d78b-4e65-b6fa-1a24c1e677e6" />
