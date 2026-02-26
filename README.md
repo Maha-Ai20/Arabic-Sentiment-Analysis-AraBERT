@@ -1,4 +1,4 @@
-# Arabic-Sentiment-Analysis-AraBERT
+
 #  Arabic Sentiment Analysis using AraBERT
 
 ##  Project Overview
